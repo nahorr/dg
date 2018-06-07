@@ -84,7 +84,7 @@
     <section class="container g-py-100">
       <div class="text-center g-mb-50">
         <h2 class="h1 g-color-black g-font-weight-600">Products and  Services</h2>
-        <p class="lead">Because Total Grades is an innovative and cost effective grades reporting solution developed by people with passion for improving the quality of primary and secondary eduction around the world.</p>
+        <p class="lead">Cylinder sales and swap, gas delivery, cooker sales and servicing, cylinder maintenance.</p>
       </div>
 
       <div class="row no-gutters g-mx-minus-10">

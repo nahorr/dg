@@ -13,7 +13,7 @@
                 <p class="g-color-white-opacity-0_9 g-font-size-20 g-mb-30">The fastest growing, most rewarding, most innovative and most transformative LPG handling and distribution company in Nigeria and sub-Saharan Africa.
                 </p>
                 <a class="btn btn-xl u-btn-white g-font-weight-600 g-font-size-13 text-uppercase rounded" href="{{url('about')}}">Discover More</a>
-                <a class="btn btn-xl u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase rounded mx-2" href="#!">Register Now</a>
+                <a class="btn btn-xl u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase rounded mx-2" href="{{url('register')}}">Sign Up</a>
               </div>
             </div>
             <div class="col-lg-6">

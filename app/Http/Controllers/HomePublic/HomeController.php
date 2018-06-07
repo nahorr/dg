@@ -27,11 +27,14 @@ class HomeController extends Controller
     {
     	return view('public-views.competition');
     }
-    public function mentorship()
+    public function productsAndServices()
     {
-    	return view('public-views.mentorship');
+    	return view('public-views.productsandservices');
     }
-
+    public function safetyTips()
+    {
+        return view('public-views.safetytips');
+    }
     public function comingSoon()
     {
         return view('public-views.coming-soon');
