@@ -66,7 +66,7 @@
        <img class="img-fluid img-thumbnail rounded-circle" src="{{asset('unify/assets/img/totalgrades.jpg')}}" alt="Sinach">
         <!-- Heading -->
          <div class="g-max-width-645 mx-auto g-mb-40"> 
-          <h2 class="h1 mb-3">ABOUT DiGIT GAS</h2> 
+          <h2 class="h1 mb-3">ABOUT DIGIT GAS</h2> 
           <p>Digit Gas is an intensely renowned LPG and allied products handling and distribution company set up by a group of technically-inclined professionals that are heartily desirous about filling the yawning gap in the sector and create innovative changes that will positively alter the skyline of domestic gas handling and distribution in Nigeria.</p> 
         </div> 
         <!-- End Heading --> 
@@ -91,7 +91,7 @@
         <div class="col-sm-6 col-lg-4 g-px-10 g-mb-20">
           <!-- Projects -->
           <div class="u-block-hover g-brd-around g-brd-gray-light-v4 g-color-black g-color-white--hover g-bg-purple--hover text-center rounded g-transition-0_3 g-px-30 g-py-50">
-            <img class="img-fluid u-block-hover__main--zoom-v1 mb-5" src="{{asset('unify/assets/img/what-we-do/vocals.png')}}" alt="vocals">
+            <img class="img-fluid u-block-hover__main--zoom-v1 mb-5" src="{{asset('unify/assets/img/what-we-do/digit_gas_sales_swap.png')}}" alt="vocals">
             <span class="g-font-weight-600 g-font-size-12 text-uppercase"></span>
             <h3 class="h4 g-font-weight-600 mb-0">Cylinder Sales and Swap</h3>
 
@@ -103,7 +103,7 @@
         <div class="col-sm-6 col-lg-4 g-px-10 g-mb-20">
           <!-- Projects -->
           <div class="u-block-hover g-brd-around g-brd-gray-light-v4 g-color-black g-color-white--hover g-bg-cyan--hover text-center rounded g-transition-0_3 g-px-30 g-py-50">
-            <img class="img-fluid u-block-hover__main--zoom-v1 mb-5" src="{{asset('unify/assets/img/what-we-do/report_card_totalgrades.png')}}" alt="Image Description">
+            <img class="img-fluid u-block-hover__main--zoom-v1 mb-5" src="{{asset('unify/assets/img/what-we-do/digit_gas_delivery.png')}}" alt="Image Description">
             <span class="g-font-weight-600 g-font-size-12 text-uppercase"></span>
             <h3 class="h4 g-font-weight-600 mb-0">Gas delivery</h3>
 
@@ -115,7 +115,7 @@
         <div class="col-sm-6 col-lg-4 g-px-10 g-mb-20">
           <!-- Projects -->
           <div class="u-block-hover g-brd-around g-brd-gray-light-v4 g-color-black g-color-white--hover g-bg-teal--hover text-center rounded g-transition-0_3 g-px-30 g-py-50">
-            <img class="img-fluid u-block-hover__main--zoom-v1 mb-5" src="{{asset('unify/assets/img/what-we-do/musıc_prod.jpg')}}" alt="Image Description">
+            <img class="img-fluid u-block-hover__main--zoom-v1 mb-5" src="{{asset('unify/assets/img/what-we-do/digit_gas_servicing.png')}}" alt="Image Description">
             <span class="g-font-weight-600 g-font-size-12 text-uppercase"></span>
             <h3 class="h4 g-font-weight-600 mb-0">Cooker Sales and Servicing</h3>
 
@@ -127,7 +127,7 @@
         <div class="col-sm-6 col-lg-4 g-px-10 g-mb-20">
           <!-- Projects -->
           <div class="u-block-hover g-brd-around g-brd-gray-light-v4 g-color-black g-color-white--hover g-bg-lightred--hover text-center rounded g-transition-0_3 g-px-30 g-py-50">
-            <img class="img-fluid u-block-hover__main--zoom-v1 mb-5" src="{{asset('unify/assets/img/what-we-do/services.jpg')}}" alt="Image Description">
+            <img class="img-fluid u-block-hover__main--zoom-v1 mb-5" src="{{asset('unify/assets/img/what-we-do/digit_gas_cylinder_maintenance.png')}}" alt="Image Description">
             <!--<span class="g-font-weight-600 g-font-size-12 text-uppercase">Hi-tech</span>-->
             <h3 class="h4 g-font-weight-600 mb-0">Cylinder Maintenance</h3>
 

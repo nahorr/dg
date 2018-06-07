@@ -22,17 +22,17 @@
             <div class="col-auto g-px-15">
               <ul class="list-inline mb-0 g-mx-minus-3">
                 <li class="list-inline-item g-valign-middle g-mx-3">
-                  <a class="d-block u-icon-v3 u-icon-size--xs g-rounded-50x g-bg-white g-color-gray-dark-v1 g-color-gray-dark-v1--hover g-text-underline--none--hover" href="https://www.facebook.com/Gosgem-474767262939625/" target="_blank">
+                  <a class="d-block u-icon-v3 u-icon-size--xs g-rounded-50x g-bg-white g-color-gray-dark-v1 g-color-gray-dark-v1--hover g-text-underline--none--hover" href="https://www.facebook.com/" target="_blank">
                     <i class="fa fa-facebook"></i>
                   </a>
                 </li>
                 <li class="list-inline-item g-valign-middle g-mx-3">
-                  <a class="d-block u-icon-v3 u-icon-size--xs g-rounded-50x g-bg-white g-color-gray-dark-v1 g-color-gray-dark-v1--hover g-text-underline--none--hover" href="https://twitter.com/GosGem" target="_blank">
+                  <a class="d-block u-icon-v3 u-icon-size--xs g-rounded-50x g-bg-white g-color-gray-dark-v1 g-color-gray-dark-v1--hover g-text-underline--none--hover" href="https://twitter.com/" target="_blank">
                     <i class="fa fa-twitter"></i>
                   </a>
                 </li>
                 <li class="list-inline-item g-valign-middle g-mx-3">
-                  <a class="d-block u-icon-v3 u-icon-size--xs g-rounded-50x g-bg-white g-color-gray-dark-v1 g-color-gray-dark-v1--hover g-text-underline--none--hover" href="https://www.instagram.com/gosgem/" target="_blank">
+                  <a class="d-block u-icon-v3 u-icon-size--xs g-rounded-50x g-bg-white g-color-gray-dark-v1 g-color-gray-dark-v1--hover g-text-underline--none--hover" href="https://www.instagram.com/" target="_blank">
                     <i class="fa fa-instagram"></i>
                   </a>
                 </li>
@@ -57,7 +57,7 @@
 
             <!-- Logo -->
             <a href="{{url('/')}}" class="navbar-brand d-flex">
-              <img id="logo" src="{{asset('unify/assets/img/logo/nahorr_analytics.png')}}" alt="Nahorr Analytics">
+              <img id="logo" src="{{asset('unify/assets/img/logo/digit_gas_logo.png')}}" alt="Digit Gas">
             </a>
             <!-- End Logo -->
 
