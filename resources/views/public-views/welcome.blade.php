@@ -63,7 +63,7 @@
     <!-- Call to Action --> 
     <div class="g-pos-rel"> 
       <div class="container text-center g-pt-50 g-pb-50">
-       <img class="img-fluid img-thumbnail rounded-circle" src="{{asset('unify/assets/img/totalgrades.jpg')}}" alt="Sinach">
+       <img class="img-fluid img-thumbnail rounded-circle" src="{{asset('unify/assets/img/digit_gas_mobile.png')}}" alt="Sinach">
         <!-- Heading -->
          <div class="g-max-width-645 mx-auto g-mb-40"> 
           <h2 class="h1 mb-3">ABOUT DIGIT GAS</h2> 
