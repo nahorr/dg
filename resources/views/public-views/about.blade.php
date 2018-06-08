@@ -42,7 +42,7 @@
         </div>
         <div class="col-lg-6">
           <div class="row">
-            <img class="img-fluid w-100 rounded" src="{{asset('unify/assets/img-temp/600x295/img1.jpg')}}" alt="Digit Gas Mission">
+            <img class="img-fluid w-100 rounded" src="{{asset('unify/assets/img/digit_gas_about_1.png')}}" alt="Digit Gas Mission">
           </div>
         </div>
       </div>
@@ -53,7 +53,7 @@
         <!-- Image, Text Block -->
         <div class="row d-flex align-items-lg-center flex-wrap g-mb-60 g-mb-0--lg">
           <div class="col-md-6 col-lg-8">
-            <img class="img-fluid rounded" src="{{asset('unify/assets/img-temp/900x600/img1.jpg')}}" alt="Digit Gas Vision">
+            <img class="img-fluid rounded" src="{{asset('unify/assets/img/digit_gas_vision.png')}}" alt="Digit Gas Vision">
           </div>
           <div class="col-md-6 col-lg-4">
             <div class="g-mt-minus-30 g-mt-0--md g-ml-minus-100--lg">
@@ -79,7 +79,7 @@
         <div class="row d-flex justify-content-between align-items-lg-center flex-wrap g-mt-minus-50--lg">
           <div class="col-md-6 order-md-2">
             <div class="g-brd-around--md g-brd-10 g-brd-white rounded">
-              <img class="img-fluid w-100 rounded" src="{{asset('unify/assets/img-temp/600x450/img1.jpg')}}" alt="Digit Gas Mission">
+              <img class="img-fluid w-100 rounded" src="{{asset('unify/assets/img/digit_gas_mission.png')}}" alt="Digit Gas Mission">
             </div>
           </div>
           <div class="col-md-6 col-lg-4 ml-auto order-md-1">

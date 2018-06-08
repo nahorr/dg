@@ -8,39 +8,39 @@
               <h2 class="u-heading-v2__title h6 text-uppercase mb-0">About Us</h2>
             </div>
 
-            <p>Our Purpose at GosGem is to provide students with the opportunity to meet, interact and learn from our accomplished music minister and experienced instructors from the comfort of their homes.</p>
+            <p>Digit Gas is an intensely renowned LPG and allied products handling and distribution company set up by a group of technically-inclined professionals that are heartily desirous about filling the yawning gap in the sector and create innovative changes that will positively alter the skyline of domestic gas handling and distribution in Nigeria.</p>
           </div>
           <!-- End Footer Content -->
 
           <!-- Footer Content -->
           <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
             <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-              <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Latest News</h2>
+              <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Products and Services</h2>
             </div>
 
             <article>
               <h3 class="h6 g-mb-2">
-            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Incredible template</a>
-          </h3>
-              <div class="small g-color-white-opacity-0_6">May 8, 2017</div>
+                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Cylinder Sales and Swap</a>
+              </h3>
+              
             </article>
 
             <hr class="g-brd-white-opacity-0_1 g-my-10">
 
             <article>
               <h3 class="h6 g-mb-2">
-            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">New features</a>
-          </h3>
-              <div class="small g-color-white-opacity-0_6">June 23, 2017</div>
+                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Gas delivery</a>
+              </h3>
+             
             </article>
 
             <hr class="g-brd-white-opacity-0_1 g-my-10">
 
             <article>
               <h3 class="h6 g-mb-2">
-            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">New terms and conditions</a>
-          </h3>
-              <div class="small g-color-white-opacity-0_6">September 15, 2017</div>
+                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Cooker Sales and Servicing</a>
+              </h3>
+             
             </article>
           </div>
           <!-- End Footer Content -->
@@ -48,7 +48,7 @@
           <!-- Footer Content -->
           <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
             <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-              <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Useful Links</h2>
+              <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Cylinder Maintenance</h2>
             </div>
 
             <nav class="text-uppercase1">
@@ -61,25 +61,25 @@
                 </li>
                 <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
                   <h4 class="h6 g-pr-20 mb-0">
-                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="{{url('mentorship')}}">Mentorship</a>
+                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="{{url('productandservices')}}">Products & Services</a>
                 <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
               </h4>
                 </li>
                 <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
                   <h4 class="h6 g-pr-20 mb-0">
-                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="{{url('competition')}}">Competition</a>
+                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="{{url('safetytips')}}">Safety Tips</a>
                 <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
               </h4>
                 </li>
                 <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
                   <h4 class="h6 g-pr-20 mb-0">
-                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="{{url('gallary')}}">Gallary</a>
+                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="{{url('contact')}}">Contact Us</a>
                 <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
               </h4>
                 </li>
                 <li class="g-pos-rel g-py-10">
                   <h4 class="h6 g-pr-20 mb-0">
-                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="{{url('contact')}}">Contact Us</a>
+                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="{{url('Login')}}">Login/Register</a>
                 <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
               </h4>
                 </li>
@@ -145,7 +145,7 @@
         <div class="row">
           <div class="col-md-8 text-center text-md-left g-mb-10 g-mb-0--md">
             <div class="d-lg-flex">
-              <small class="d-block g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">2018 &copy; All Rights Reserved.</small>
+              <small class="d-block g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">2018 &copy; All Rights Reserved - Digit Gas Ltd</small>
               <ul class="u-list-inline">
                 <li class="list-inline-item">
                   <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Privacy Policy</a>

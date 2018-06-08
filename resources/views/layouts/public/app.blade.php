@@ -98,6 +98,7 @@
   <script src="{{asset('unify/assets/vendor/hs-bg-video/hs-bg-video.js')}}"></script>
   <script src="{{asset('unify/assets/vendor/hs-bg-video/vendor/player.min.js')}}"></script>
   <script src="{{asset('unify/assets/vendor/fancybox/jquery.fancybox.min.js')}}"></script>
+  <script  src="{{asset('unify/assets/vendor/custombox/custombox.min.js')}}"></script>
 
   <!-- JS Unify -->
   <script src="{{asset('unify/assets/js/hs.core.js')}}"></script>
@@ -115,6 +116,7 @@
   <script src="{{asset('unify/assets/js/helpers/hs.height-calc.js')}}"></script>
   <script src="{{asset('unify/assets/js/components/hs.popup.js')}}"></script>
   <script src="{{asset('unify/assets/js/components/hs.go-to.js')}}"></script>
+  <script  src="{{asset('unify/assets/js/components/hs.modal-window.js')}}"></script>
 
   <!-- JS Revolution Slider -->
   <script src="{{asset('unify/assets/vendor/revolution-slider/revolution/js/jquery.themepunch.tools.min.js')}}"></script>
@@ -313,6 +315,11 @@
           secondsElSelector: '.js-cd-seconds'
         });
       });
+
+    $(document).on('ready', function () {
+    // initialization of popups
+    $.HSCore.components.HSModalWindow.init('[data-modal-target]');
+  });
 
   </script>
 

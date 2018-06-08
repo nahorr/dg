@@ -147,7 +147,7 @@
           <p class="lead g-font-weight-400 g-mr-20--md g-mb-15 g-mb-0--md">Get a 50% discount when you place your first order online</p>
         </div>
         <div class="align-self-md-center">
-          <a class="btn btn-lg u-btn-white text-uppercase g-font-weight-600 g-font-size-12" target="_blank" href="{{url('mentorship')}}">More Information</a>
+          <a class="btn btn-lg u-btn-white text-uppercase g-font-weight-600 g-font-size-12" href="{{url('productsandservices')}}">More Information</a>
         </div>
       </div>
     </section>
