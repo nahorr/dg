@@ -7,7 +7,7 @@
  	    <!-- Promo Block -->
     <section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall" data-options='{direction: "fromtop", animation_duration: 25, direction: "reverse"}'>
       <!-- Parallax Image -->
-      <div class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-pos-center g-bg-black-opacity-0_2--after" style="height: 140%; background-image: url(/unify/assets/img-temp/1920x800/mentorship.jpg);"></div>
+      <div class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-pos-center g-bg-black-opacity-0_2--after" style="height: 140%; background-image: url(/unify/assets/img/safetytips.jpg);"></div>
       <!-- End Parallax Image -->
 
       <!-- Promo Block Content -->
@@ -28,7 +28,9 @@
               <h2 class="h3 g-color-black text-uppercase mb-2">SAFETY AND SECURITY TIPS </h2>
               <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
               <p class="lead mb-0">We value our customers safety and security. Please review the security and safety tips below.</p><hr>
-              
+              <div class="col-md-6 offset-md-3">
+                <img class="img-fluid rounded" src="{{asset('unify/assets/img/digit_gas_safety.png')}}" alt="Digit Gas Vision">
+              </div>
             </div>
             <!-- End Heading -->
           </div>

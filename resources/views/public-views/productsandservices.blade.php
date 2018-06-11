@@ -7,13 +7,13 @@
  	    <!-- Promo Block -->
     <section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall" data-options='{direction: "fromtop", animation_duration: 25, direction: "reverse"}'>
       <!-- Parallax Image -->
-      <div class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-pos-center g-bg-black-opacity-0_2--after" style="height: 140%; background-image: url(/unify/assets/img-temp/1920x800/mentorship.jpg);"></div>
+      <div class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-pos-center g-bg-black-opacity-0_2--after" style="height: 140%; background-image: url(/unify/assets/img/productsandservices.jpg);"></div>
       <!-- End Parallax Image -->
 
       <!-- Promo Block Content -->
       <div class="container g-color-white text-center g-py-150">
-        <span class="d-block g-font-weight-300 g-font-size-25 mb-3">MENTORSHIP PROGRAM</span>
-        <h3 class="h1 text-uppercase mb-0">Learn From The Best So You can Become The Best.</h3>
+        <span class="d-block g-font-weight-500 g-font-size-50 mb-3">Digit Gas</span>
+        <h3 class="h1 text-uppercase mb-0"></h3>
       </div>
       <!-- Promo Block Content -->
     </section>
