@@ -44,7 +44,7 @@ class ContactFormSubmitted extends Notification
     {
         return (new MailMessage)
                     ->line('Hello. '.$this->contact_form_notification)
-                    ->action('Nahorr Analytics', 'http://127.0.0.1:8000/login')
+                    ->action('Digit Gas', 'https://digitgas.com/login')
                     ->line('Please use the link above to login and view the message.');
     }
 
